@@ -103,9 +103,15 @@ export default function CreatePost() {
             }
           >
             <option value='uncategorized'>Select a category</option>
-            <option value='javascript'>JavaScript</option>
-            <option value='reactjs'>React.js</option>
-            <option value='nextjs'>Next.js</option>
+            <option value='javascript'>Computer Vision</option>
+            <option value='reactjs'>Machine Learning</option>
+            <option value='nextjs'>Arificial Intelligence</option>
+            <option value='nextjs'>AI and Ethics</option>
+            <option value='nextjs'>Generative AI</option>
+            <option value='nextjs'>Research and Development</option>
+            <option value='nextjs'> AI in Industry</option>
+            <option value='nextjs'>AR and VR</option>
+            <option value='nextjs'>AI in Finance and Economics</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
