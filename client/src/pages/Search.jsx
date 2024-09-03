@@ -130,10 +130,16 @@ export default function Search() {
               value={sidebarData.category}
               id='category'
             >
-              <option value='uncategorized'>Uncategorized</option>
-              <option value='reactjs'>React.js</option>
-              <option value='nextjs'>Next.js</option>
-              <option value='javascript'>JavaScript</option>
+              <option value='uncategorized'>Select a category</option>
+            <option value='Computer Vision'>Computer Vision</option>
+            <option value='Machine Learning'>Machine Learning</option>
+            <option value='nArificial Intelligence<'>Arificial Intelligence</option>
+            <option value='AI and Ethics'>AI and Ethics</option>
+            <option value='Generative AI'>Generative AI</option>
+            <option value='Research and Development'>Research and Development</option>
+            <option value='AI in Industry'> AI in Industry</option>
+            <option value='AR and VR'>AR and VR</option>
+            <option value='AI in Finance and Economics'>AI in Finance and Economics</option>
             </Select>
           </div>
           <Button type='submit' outline gradientDuoTone='purpleToPink'>
