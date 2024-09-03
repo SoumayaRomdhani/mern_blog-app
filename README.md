@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Explore the live application on [Render](mern-blog-app-ht5o.onrender.com) to see the AI Hub Blog in action.
+Explore the live application on [[Render](https://mern-blog-app-ht5o.onrender.com)](mern-blog-app-ht5o.onrender.com) to see the AI Hub Blog in action.
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ Explore the live application on [Render](mern-blog-app-ht5o.onrender.com) to see
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/ai-hub-blog.git
+    git clone [https://github.com/your-username/ai-hub-blog.git](https://github.com/SoumayaRomdhani/mern_blog-app)
     cd ai-hub-blog
     ```
 
