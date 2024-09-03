@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Explore the live application on [[Render](https://mern-blog-app-ht5o.onrender.com)](mern-blog-app-ht5o.onrender.com) to see the AI Hub Blog in action.
+Explore the live application on [[Render](https://mern-blog-app-ht5o.onrender.com)] to see the AI Hub Blog in action.
 
 ## 🌟 Features
 
