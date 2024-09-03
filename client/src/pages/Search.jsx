@@ -139,7 +139,7 @@ export default function Search() {
             <option value='Research and Development'>Research and Development</option>
             <option value='AI in Industry'> AI in Industry</option>
             <option value='AR and VR'>AR and VR</option>
-            <option value='AI in Finance and Economics'>AI in Finance and Economics</option>
+            <option value='AI in Finance and Economics'>AI in the Finance and Economics</option>
             </Select>
           </div>
           <Button type='submit' outline gradientDuoTone='purpleToPink'>
