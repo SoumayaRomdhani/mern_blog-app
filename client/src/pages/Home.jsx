@@ -19,8 +19,7 @@ export default function Home() {
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto '>
         <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to my Blog</h1>
         <p className='text-gray-500 text-xs sm:text-sm'>
-          Here you'll find a variety of articles and tutorials on topics such as
-          web development, software engineering, and programming languages.
+        Here you'll find a range of articles and tutorials on cutting-edge AI research, machine learning advancements , computer vision , and the latest trends in artificial intelligence
         </p>
         <Link
           to='/search'
@@ -29,7 +28,7 @@ export default function Home() {
           View all posts
         </Link>
       </div>
-      <div className='p-3 bg-amber-100 dark:bg-slate-700'>
+      <div className='p-3 bg-blue-100 dark:bg-blue-300'>
         <CallToAction />
       </div>
 
